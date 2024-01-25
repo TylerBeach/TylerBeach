@@ -1,5 +1,5 @@
 # Hi, I'm Tyler! 👋
-<h3 align="center">A software developer with a strong love for frogs</h3>
+<h3 align="center">A Computer Science student with a strong love for frogs 🐸</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylerbeach&label=Profile%20views&color=0e75b6&style=flat" alt="tylerbeach" /> </p>
 
 
