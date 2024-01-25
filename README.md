@@ -1,5 +1,5 @@
 # Hi, I'm Tyler! 👋
-<h3 align="center">A Computer Science student with a strong love for frogs 🐸</h3>
+<h3 align="left">A Computer Science student with a strong love for frogs 🐸</h3>
 
 - 🔭 I’m currently working on [**Kepler**](https://github.com/TylerBeach) and [**Story Teller**](https://github.com/Active-Transport/story-time)
 
