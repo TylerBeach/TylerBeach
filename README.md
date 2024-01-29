@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Kepler**](https://github.com/TylerBeach/Kepler-AI) and [**Story Teller**](https://github.com/Active-Transport/story-time)
 
-- 🌱 I’m currently learning **Android Development** and **Digital Image Processing**
+- 🌱 I’m currently learning **Android Development**, **Digital Image Processing** and **Neovim!**
 
 - 👨‍💻 Check out my site [Here](https://tylerbeach.vercel.app/)
 
