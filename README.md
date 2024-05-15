@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on revamping my website using Next and Tailwind!
 
-- 🌱 I’m currently learning **Android Development**, **Digital Image Processing** and **Neovim!**
+- 🌱 I’m currently learning Express!
 
 - 👨‍💻 Check out my site [Here](https://tylerbeach.vercel.app/)
 
