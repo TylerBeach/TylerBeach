@@ -4,6 +4,8 @@
 
 - 😎 I am currently working on a schedule builder for the University of Alberta!
 
+- 💾 I am currently building a server running on Ubuntu! Currently it hosts my minecraft server and eventually will host my websites and api's!
+
 - 🐸 I just finished an educational software for medical topics called MediMinutes! Check it out [Here!](https://medi-minutes.vercel.app/)
 
 - 🔭 I recently worked on a visual algorithm website! Check it out [Here!](https://algorithm-tutor.vercel.app/)
