@@ -12,4 +12,4 @@
 
 - 👨‍💻 Check out my site [Here](https://tylerbeach.site)
 
-- 📫 Contact me on [LinkedIn!](https://www.linkedin.com/in/tylerbe/)
+- 📫 Contact me on [LinkedIn!](https://www.linkedin.com/in/tylerbe/) or [My Site!](https://www.tylerbeach.site/contact)
