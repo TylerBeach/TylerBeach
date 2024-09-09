@@ -1,6 +1,6 @@
 # Hi, I'm Tyler! 👋
 <h1 align="left">A Computer Science student with a strong love for frogs 🐸</h1>
-<h2 align="left">Looking for Fall 2024 and Winter 2025 internships! </h2>
+<h2 align="left">Looking for Winter 2025 and Summer 2025 internships! </h2>
 
 - 😎 I am currently working on a schedule builder for the University of Alberta!
 
