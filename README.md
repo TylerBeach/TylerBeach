@@ -13,3 +13,5 @@
 - 👨‍💻 Check out my site [Here](https://tylerbeach.site)
 
 - 📫 Contact me on [LinkedIn!](https://www.linkedin.com/in/tylerbe/) or [My Site!](https://www.tylerbeach.site/contact)
+
+![TylerBeach's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerBeach&theme=dracula&show_icons=true&hide_border=true&layout=compact)
